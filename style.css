@@ -1,0 +1,111 @@
+.bg-pink {
+    background-color: #ffe3e8 !important;
+}
+
+.bg-purple {
+    background-color: #f4cbfc !important;
+}
+
+.bg-dark-purple {
+    background-color: #44254b !important;
+}
+
+.text-purple {
+    color: #44254b !important;
+}
+
+
+
+/* fuentes */
+
+@font-face {
+    font-family: 'fuente-kiut';
+    src: url('./assets/fonts/josephsophia.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.fuente-kiut {
+    font-family: 'fuente-kiut';
+
+}
+
+.container {
+    display: center;
+}
+
+.texto {
+    font-family: cursive;
+}
+
+.texto {
+    font-family: cursive;
+}
+
+.texto {
+    font-family: cursive;
+}
+
+
+/* ropa */
+
+.container {
+    display: center;
+}
+
+.container {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+
+/* peluches */
+
+.container {
+    display: center;
+}
+
+.container {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+
+/* accesorios */
+
+.container {
+    display: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+/* agujas */
+
+.container {
+    display: flex;
+    font-family: 'fuente-kiut';
+}
+
+
+
+/* carrito */
+
+
+.carrito {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
